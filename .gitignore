@@ -1,1 +1,11 @@
+.env
 config.yaml
+
+# ignore files specific to google_flights_scraper projects
+google_flights_scaper/google-flights-scraper-env/
+
+# ignore files specific to placekey projects
+placekey/credentials.json
+placekey/placekey-env/
+
+
